@@ -34,3 +34,6 @@ MonoBehaviour:
   sampleCount:
     overrideState: 1
     value: 10
+  previewOnEdit:
+    overrideState: 1
+    value: 1
